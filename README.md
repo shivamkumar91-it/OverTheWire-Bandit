@@ -12,3 +12,9 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 cat readme
 Output → password displayed.
+🧠 Concepts Learned
+- Basic SSH connection.
+- Reading file contents with cat.
+- Understanding Linux environment for security challenges.
+🔑 Password for Next Level
+- 
